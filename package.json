@@ -1,0 +1,26 @@
+{
+  "name": "witch-hunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InverseFinance/witch-hunt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InverseFinance/witch-hunt/issues"
+  },
+  "homepage": "https://github.com/InverseFinance/witch-hunt#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.31"
+  }
+}
